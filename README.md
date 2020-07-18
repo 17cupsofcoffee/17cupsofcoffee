@@ -1,16 +1,14 @@
-### Hi there 👋
+# Joe Clay / @17cupsofcoffee
 
-<!--
-**17cupsofcoffee/17cupsofcoffee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Joe (they/them)! I'm a software engineer from the UK.
 
-Here are some ideas to get you started:
+### 🛠️ What are you working on?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I'm currently building [Tetra](https://github.com/17cupsofcoffee/tetra), a framework for making 2D games with Rust.
+    * Sometimes I use it to make games of my own, which you can find on my [itch.io](https://17cupsofcoffee.itch.io/)!
+* From time to time, I [write about code](https://www.seventeencups.net/) or [make music](https://soundcloud.com/17cupsofcoffee).
+
+### 💬 How can I get in touch with you? 
+
+* I'm [@17cupsofcoffee on Twitter](https://twitter.com/17cupsofcoffee).
+* You can also email me via joe (at) seventeencups (dot) net.
