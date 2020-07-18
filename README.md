@@ -1,4 +1,4 @@
-Hi, I'm Joe (they/them)! I'm a software engineer from the UK.
+**Hi, I'm Joe (they/them)! I'm a software engineer from the UK.**
 
 ### 🛠️ What are you working on?
 
