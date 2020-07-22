@@ -4,7 +4,7 @@ Hi, I'm Joe (they/them)! I'm a software engineer from the UK.
 
 * I'm currently building [Tetra](https://github.com/17cupsofcoffee/tetra), a framework for making 2D games with Rust.
     * Sometimes I use it to make games of my own, which you can find on my [itch.io](https://17cupsofcoffee.itch.io/)!
-* From time to time, I [write about code](https://www.seventeencups.net/) or [make music](https://soundcloud.com/17cupsofcoffee).
+* From time to time, I [write about code](https://www.seventeencups.net/) and [make music](https://soundcloud.com/17cupsofcoffee).
 
 ### 💬 How can I get in touch with you? 
 
